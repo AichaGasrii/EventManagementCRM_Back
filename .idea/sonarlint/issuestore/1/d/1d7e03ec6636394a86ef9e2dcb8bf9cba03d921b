@@ -1,0 +1,5 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”­ã«J$af9b9a74-43e6-4411-8814-93331e721517
+|
+java:S1874!";Remove this use of "redirectUriTemplate"; it is deprecated.(¬¢ùúÿÿÿÿJ$bde83547-1d38-4d3d-8f6d-c3f610adbf05
+šsecrets:S6691"[Make sure this Google OAuth client secret gets revoked, changed, and removed from the code.(€ãŒ§J$3667e2d4-678e-4035-9209-d337ebba2afd

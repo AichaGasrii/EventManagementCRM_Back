@@ -1,0 +1,47 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: API_GATEWAY
+
+
+  cloud:
+    gateway:
+      globalcors:
+        corsConfigurations:
+          '[/**]':
+            allowedOrigins: "http://localhost:4200" # or "*" to allow all origins
+            allowedMethods:
+              - GET
+              - POST
+              - PUT
+              - DELETE
+              - OPTIONS
+            allowedHeaders: "*" # or specify headers
+            allowCredentials: true
+      routes:
+
+        - id: gestionAuth
+          uri:
+            lb://gestionAuth
+          predicates:
+            - Path=/auth/**
+
+        - id: gestionUser
+          uri:
+            lb://gestionUser
+          predicates:
+            - Path=/user/**
+
+        - id: gestionEvent
+          uri:
+            lb://gestionEvent
+          predicates:
+            - Path=/gestionEvent/**
+
+
+
+
+
+

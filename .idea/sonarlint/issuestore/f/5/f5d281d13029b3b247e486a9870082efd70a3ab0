@@ -1,0 +1,17 @@
+
+
+java:S1192M"FDefine a constant instead of duplicating this literal "Dear " 3 times.(»”‡^J$265b6878-24ca-4c7a-8783-4ea24fe9e972
+m
+java:S3655I"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ËŠ™Ô8—äÍú2
+l
+java:S3655K"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(³µ›8—äÍú2
+m
+java:S3655t"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(·ªÆ8—äÍú2
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$599113be-54fe-4f4c-beda-a23cca2a6b80
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$424714fa-0c6c-4f8c-9e87-77e696c7003f
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$500322d7-79cf-4031-9893-90b68c0b8979
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$7756bf11-9f2f-408b-93eb-14fdbbc675b1

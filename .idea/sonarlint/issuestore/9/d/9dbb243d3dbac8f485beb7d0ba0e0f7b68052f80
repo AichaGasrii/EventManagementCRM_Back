@@ -1,0 +1,17 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”­ã«J$961bfab4-1985-477e-93c0-2dcb50b8b059
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$1817b888-89fe-4548-979e-580253a2af39
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$0f3be575-d0c9-4eda-a2d3-a73d9881001d
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$5f90f41e-8456-4c03-95b4-644cdcb29d59
+…
+java:S1874"DRemove this use of "WebSecurityConfigurerAdapter"; it is deprecated.(ßƒ€ŒùÿÿÿÿJ$8ceaea9f-f7ea-4236-8c24-7e62069ab49e
+¯
+java:S4601/"tReorder the URL patterns from most to less specific, the pattern "/auth/checkEmail" should occurs before "/auth/**".(éÓ‰6J$ae424fff-756c-405b-b673-c4e53089c2f1
+¸
+java:S46010"wReorder the URL patterns from most to less specific, the pattern "/auth/resetPassword" should occurs before "/auth/**".(ùŒÍÌúÿÿÿÿJ$bead2d4d-e4b8-49a2-8da9-cc0efd39bd23
+|	java:S125?"<This block of commented-out lines of code should be removed.(¬ÎáÌüÿÿÿÿJ$853a4a5d-3282-4975-85ac-9e056e99b9a3
+|	java:S125W"<This block of commented-out lines of code should be removed.(¬ÎáÌüÿÿÿÿJ$c4cdfd7d-6e07-46d9-9516-c06134eda2a1
+w	java:S125i"<This block of commented-out lines of code should be removed.(í–ÉŒJ$d9624ce6-d783-4c25-a023-e93635d9e708

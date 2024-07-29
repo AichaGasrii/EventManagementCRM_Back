@@ -1,0 +1,15 @@
+
+p
+java:S5411$"(Use a primitive boolean expression here.(Üû¯…ÿÿÿÿÿ8Êÿ××2J$f7e289a3-c372-45cd-8af4-75d4374d65ed
+p
+java:S5411L"(Use a primitive boolean expression here.(òêûˆıÿÿÿÿ8Ëÿ××2J$df731fcf-ce68-48e5-98fe-e9e6e16ef321
+Ë
+java:S4449)"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(€¼'8èÿ××2J$c7c414fa-91e2-4cd8-bb6e-3083a86e69db
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ëÿ××2J$7548bcff-abe8-435d-9d98-7054be64e7f9
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ìÿ××2J$0912ef80-8a14-4533-9bec-cc4f1206fea4
+ˆ
+java:S4684#"@Replace this persistent entity with a simple POJO or DTO object.(áø„¾şÿÿÿÿ8öÿ××2J$9f5cbbcf-a0e0-422a-bd66-5a6efbb67c5e
+r
+java:S1068"*Remove this unused "logger" private field.(œ«–øÿÿÿÿ8…€Ø×2J$0c617b56-49e5-4fd7-adf1-2b271f111631

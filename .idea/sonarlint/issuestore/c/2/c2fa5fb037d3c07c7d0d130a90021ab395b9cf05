@@ -1,0 +1,45 @@
+
+	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(¬Ú«‹J$ffa1d043-b3cb-43b3-8c24-f0a84bdb99c1
+†	java:S112\"FDefine and throw a dedicated exception instead of using a generic one.(ÿÜüÏıÿÿÿÿJ$af08aefd-ea80-42b9-90fd-ed0493c4d55b
+	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®´÷­J$044975c1-3780-4b31-9704-b710ae503027
+’	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıôÁŒûÿÿÿÿJ$e043e9c7-b389-4a8f-9b70-18df5fea89a7
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ËáïJ$c972e141-f16f-46ac-b6c7-5b1ef8b2fd81
+	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ñÂìJ$23e0e808-c7a0-45bb-ba2e-692e1ecfd038
+	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘©ÍJ$6668804c-7179-44ce-b91f-e21d29192abf
+’	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‡ÃÛùÿÿÿÿJ$2fd04c9e-f061-48de-8e98-93b373d902d0
+’	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë”—ÖşÿÿÿÿJ$bbc591db-a14d-4c59-a8e5-e608a3c96fa8
+	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÁšÜJ$26628513-d6d6-43bc-a3d2-c6785d9f3ba7
+Ÿ
+java:S1488ì"]Immediately return this expression instead of assigning it to the temporary variable "count".(¸¾§ÓÿÿÿÿÿJ$3069af98-43df-4793-8931-619ffa4ee186
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úññùÿÿÿÿJ$0a0860ea-ddcd-4133-b4fe-e2b2f49d2860
+†
+java:S2259D"JA "NullPointerException" could be thrown; "existingUser" is nullable here.(¨¢ì‘J$d2cf1605-6ad8-45a6-9445-cc62eb58932c
+„
+java:S2259¥"BA "NullPointerException" could be thrown; "user" is nullable here.(ó©È£ÿÿÿÿÿJ$0d7c38ac-5a6d-4628-8244-475f6dbf1329
+
+java:S2259å"?A "NullPointerException" could be thrown; "u" is nullable here.(õëÅÆşÿÿÿÿJ$1a0cd982-4f83-45e0-b4ee-4ac200914e80
+
+java:S2259İ"?A "NullPointerException" could be thrown; "u" is nullable here.(ÙÖ‚ùÿÿÿÿJ$605fbecc-8a39-4545-b2f8-3b38e6be7c78
+’
+java:S3655Æ"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(€ß«ÜúÿÿÿÿJ$51b18a39-6780-4719-9c74-4fc92ac91730
+’
+java:S3655Ì"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÎŞ¹…ùÿÿÿÿJ$0e2ae3bb-8e33-4d48-a049-f038503a684d
+x
+java:S2589E"7Remove this expression which always evaluates to "true"(Í—´¡ûÿÿÿÿJ$63aa16eb-d840-45f7-a5bc-7c8160677e85
+›	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ô¤ÜøÿÿÿÿJ$e237e665-5381-4fc9-bf6f-e436a04b0239
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$ba75d4a2-5f93-4a8e-a826-25883cc66ae0
+~
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞJ$adaa8c33-8134-4f48-a4c4-ad77b85498f9
+~
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞJ$0c969255-b4e5-4ef2-ab23-f85fb3a025b4
+~
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞJ$bc776823-6c16-4896-87c7-9ca0de99d1d8
+~
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞJ$1ca82d9d-b5c1-46af-a176-a0b953ba6384
+|	java:S107R"<Method has 9 parameters, which is greater than 7 authorized.(Õş ®ùÿÿÿÿJ$a673fcfd-e759-4bac-9bdd-87bba0b784ba
+	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õş ®ùÿÿÿÿJ$d8407c60-364d-4bba-9981-3f3875d441f6
+}	java:S125©"<This block of commented-out lines of code should be removed.(ÚËªôøÿÿÿÿJ$64c79ed6-d957-4c9b-8a7a-57239cfdbc3c
+l	java:S106Ê"+Replace this use of System.out by a logger.(—àå¦ÿÿÿÿÿJ$278a7113-89eb-4ebb-b41a-2e2a1e949536
+l	java:S106©"+Replace this use of System.out by a logger.(×ÍîÂúÿÿÿÿJ$025dfb36-30f3-412c-be7b-74a38eb8d282
+g	java:S106Î"+Replace this use of System.out by a logger.(¼ …·J$af142ad3-66f6-4591-bb0e-87654daf2b78

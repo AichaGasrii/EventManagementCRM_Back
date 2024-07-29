@@ -1,0 +1,62 @@
+
+	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(İ¿‡„øÿÿÿÿ8¯Ñìó2J$81ff70f9-422b-452d-b668-3183eefce53c
+
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(şšë¦8±Ñìó2J$6477f3ba-5a36-4724-aa6b-ee0fbd51cc76
+
+java:S1192–"JDefine a constant instead of duplicating this literal "Processed" 5 times.(Üóò8²Ñìó2J$58eadafd-aeee-43ca-aff3-ee737a305b72
+d
+java:S1643I"Use a StringBuilder instead.(áŒÄéüÿÿÿÿ8´Ñìó2J$eec4e4ad-ace7-435c-ba91-e57393c40f1c
+d
+java:S1643W"Use a StringBuilder instead.(¬€«…øÿÿÿÿ8´Ñìó2J$eeb6ef63-5b7e-4526-ad19-494633237805
+p
+java:S54111"(Use a primitive boolean expression here.(µ×ãúÿÿÿÿÿ8µÑìó2J$44cb572e-72a4-4a44-a472-2a054013c152
+l
+java:S5411"(Use a primitive boolean expression here.(ÿÄ¤¨8µÑìó2J$690a3144-1085-40ae-b3ee-4769dcf5aa62
+™
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(µşâ¼úÿÿÿÿ8éÕìó2J$02ee0edd-9d1a-4ec6-aba4-4cb4de518068
+“
+java:S3655F"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ôü¬„8éÕìó2J$5f074550-7f39-4f5a-bc4d-90955bc9cdb8
+˜
+java:S3655t"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¬¶šÕıÿÿÿÿ8êÕìó2J$44d0b944-5bec-4dee-9575-3760408ee671
+™
+java:S3655„"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(µşâ¼úÿÿÿÿ8éÕìó2J$cd344cd7-339b-4d3b-b7a8-df431fc4fa3b
+“
+java:S3655T"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ö•õ¢8êÕìó2J$8507f095-0b4a-4edf-ba38-e76f897e5c20
+˜
+java:S3655u"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ë¨Î—ÿÿÿÿÿ8éÕìó2J$b9b5b9ad-e22c-4474-b960-2a1c5b89a1b4
+”
+java:S3655Å"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ëƒ×¾8êÕìó2J$c25d5c6b-b151-4207-8b01-2fe560548c6b
+”
+java:S3655Â"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(±ºˆ“8êÕìó2J$0d66bc4c-a2d4-45ad-9ceb-4110e3dcfbda
+“
+java:S3655³"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¾šÿ;8êÕìó2J$b01134fe-535c-483a-9212-dc50401d49a9
+”
+java:S3655û"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(”˜‹¾8êÕìó2J$2bb98c68-de66-4903-9350-24d822256dce
+”
+java:S3655¥"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ö¶»€8çá…ô2J$5b788138-b166-4d98-9312-b510d08fd27d
+”
+java:S3655Ñ"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ö¶»€8êÕìó2J$548cbb2e-1f4c-4715-853a-647bbdcf0d41
+™
+java:S3655Š"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ãî¨İüÿÿÿÿ8êÕìó2J$9498e851-ca2a-4670-bbbc-296ce11d40a3
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ìÕìó2J$f47a85ef-db54-4731-a4ea-f87e3f9b3cf8
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8íÕìó2J$7efb9c7c-80c5-4621-a696-aee5d3a933ba
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8îÕìó2J$9f1f274e-5925-4123-9f05-fe59230753fb
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ğÕìó2J$4d8da345-5af5-4da4-84b3-b6ea57eb7951
+…
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ8ğÕìó2J$e0e90fa1-1227-4d8b-aa90-5eefb6d48a9f
+…
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8ğÕìó2J$ebc3f731-5cbe-4aae-babd-65dc4a22c93a
+
+java:S1117h">Rename "newBooking" which hides the field declared at line 18.(„–‡8üÕìó2J$22003ba5-4620-4300-ac5e-d5607fe2a369
+„	java:S125‘"<This block of commented-out lines of code should be removed.(³°×ùÿÿÿÿ8ƒÖìó2J$dcce7c5c-2ed1-4e29-b985-9ecb432accf3
+	java:S125š"<This block of commented-out lines of code should be removed.(ş›ÓĞ8…Öìó2J$508a9bfd-5ce2-464e-87ca-e3281fa1724f
+‹
+java:S1117Ï"BRename "requiredDates" which hides the field declared at line 309.(²ÎÓæıÿÿÿÿ8¦â…ô2J$163b36b4-2d9e-4227-9928-e3b80db30f66
+†
+java:S1117Ş"BRename "requiredDates" which hides the field declared at line 309.(˜Ïß8Ë¿Òõ2J$11d996ab-7d6b-402f-bca6-bb85dbf8011f
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¶÷ö2

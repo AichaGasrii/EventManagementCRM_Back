@@ -1,0 +1,25 @@
+
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$3a30dc7d-d2a1-4f7c-af2a-e702b55f3b6f
+~
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞJ$7bcc9944-be34-4111-8817-555617237e04
+~
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞJ$fba45bba-251c-4cf8-b591-423de435e840
+~
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞJ$479423b1-b69d-46dc-8e86-2c281bf9d942
+~
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞJ$058442ee-2e14-4ab7-9d8e-0446319d2d8f
+~
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞJ$9660b0fc-04da-4c33-a6ba-7df003d60d95
+
+java:S4684j"@Replace this persistent entity with a simple POJO or DTO object.(°¦‘¹üÿÿÿÿJ$ae3f1e17-851d-4954-a352-bf236106c0d9
+
+java:S4684v"@Replace this persistent entity with a simple POJO or DTO object.(é­„ùÿÿÿÿJ$488ba44f-8b2e-4dbd-a307-16a0f11f911c
+	java:S100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÏÆÇşÿÿÿÿJ$3898914b-c208-4d5f-afb1-63e1c46f04d1
+g	java:S106É"+Replace this use of System.out by a logger.(Í»¹íJ$c4e9ffcd-7b91-4a42-9642-5c5d2f9c7545
+g	java:S106Ë"+Replace this use of System.out by a logger.(„Ì—J$9e4b11e2-b74b-4d62-97e0-dc4ec9f1c4b3
+g	java:S106Ì"+Replace this use of System.out by a logger.(š¸ä“J$f83ff03e-f490-430b-94cd-8da7367dbdf0
+l	java:S106Í"+Replace this use of System.out by a logger.(½ÿ·úÿÿÿÿJ$b25eefe0-3a36-42a4-bafd-f76acd9c47f8
+g	java:S106Ğ"+Replace this use of System.out by a logger.(·­±J$35855f37-a435-41c4-a273-1051bc43cd34
+u
+java:S1611ó"3Remove the parentheses around the "error" parameter(ı£—ÔúÿÿÿÿJ$c01ad1b9-ad9c-4318-b39a-a509855bc763

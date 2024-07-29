@@ -1,0 +1,27 @@
+
+[	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(‹‘½ê
+`	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(ê×·Íüÿÿÿÿ
+w
+java:S1488n"aImmediately return this expression instead of assigning it to the temporary variable "venueList".(Î¦±ò
+i
+java:S2095*"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(êëô¡úÿÿÿÿ
+f
+java:S3655|"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ç¥à¾
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+W	java:S899)"BDo something with the "boolean" value returned by "createNewFile".(¼äëš
+@	java:S106G"+Replace this use of System.out by a logger.(³Ò‘
+@	java:S106Q"+Replace this use of System.out by a logger.(ïß„³
+@	java:S106^"+Replace this use of System.out by a logger.(ÌÃ¶
+W
+java:S1612m"AReplace this lambda with method reference 'Venue::getVenuePlace'.(÷¦›Ì
+h
+java:S6204n"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Î¦±ò

@@ -1,0 +1,9 @@
+
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(éØ›—şÿÿÿÿJ$122ac956-389e-40a6-a6f9-0e812a7e91cf
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„øğáJ$c3eecd3e-6e4e-46a9-b463-bd2cbd7038d4
+k	java:S106"+Replace this use of System.out by a logger.(ºÿÿùÿÿÿÿJ$9126f1bd-a569-4e70-b71c-a0822ecda6b7
+k	java:S106"+Replace this use of System.out by a logger.(Õ§îşÿÿÿÿJ$ded9659c-029f-4b49-9dc8-372d04e891fc
+f	java:S106"+Replace this use of System.out by a logger.(ú³ºŒJ$04f50c5a-0079-46de-8ce1-1027afaa4768
+f	java:S106"+Replace this use of System.out by a logger.(›Ğà³J$f23ec6c2-b773-4a02-8b62-d98bae13e299
+}
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(„øğáJ$4124f2a2-b6e7-4809-a331-8c56078ac86f

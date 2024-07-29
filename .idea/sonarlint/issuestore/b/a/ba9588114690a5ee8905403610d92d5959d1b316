@@ -1,0 +1,12 @@
+
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$50702860-5b18-4c2e-bf25-89e10906dd8c
+|
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(Æƒ£ôJ$d092a355-9ed3-4ba7-af3a-4ffe4d249911
+
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤ŠúÿÿÿÿJ$3aa07d58-addd-4607-90c6-c7060ce27b3b
+o
+java:S1128
+".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿJ$50169789-aba0-4606-90e2-f227e83eb8e8
+k
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½ÒşÿÿÿÿJ$7ae1e60a-4502-41e1-9a6c-d90c0d9fc408
