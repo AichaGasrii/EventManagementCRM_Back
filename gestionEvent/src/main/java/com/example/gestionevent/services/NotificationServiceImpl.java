@@ -35,7 +35,6 @@ public class NotificationServiceImpl implements NotificationService {
 		if (existingNotificationOptional.isPresent()) {
 			Notification existingNotification = existingNotificationOptional.get();
 			// Update the checked status
-			existingNotification.setChecked(notification.isChecked());
 			// Save the updated notification
 			notificationRepo.save(existingNotification);
 			return 1; // Successful update

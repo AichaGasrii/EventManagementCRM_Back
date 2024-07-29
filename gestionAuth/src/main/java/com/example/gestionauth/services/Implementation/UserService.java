@@ -183,7 +183,7 @@ public class UserService {
         return userDao.save(user);
     }*/
 
-        public User registerNewUser(User user) {
+    public User registerNewUser(User user) {
         // Check if a user with the provided username already exists
         if (userDao.existsById(user.getUserName())) {
             throw new DataIntegrityViolationException("User already exists with this username: " + user.getUserName());
@@ -194,15 +194,16 @@ public class UserService {
             throw new DataIntegrityViolationException("User already exists with this email: " + user.getUserEmail());
         }
 
-        // If the username and email don't already exist, proceed with user registration
+        // Proceed with user registration
+
+
+
+        user.setUserPassword(getEncodedPassword(user.getUserPassword()));
         Role role = roleDao.findById("User").get();
         Set<Role> userRoles = new HashSet<>();
         user.setIsverified(0);
-
         System.out.println("Sending verification email to: " + user.getUserEmail());
-
         emailServ.sendVerificationEmail(user);
-
         user.setUserPassword(getEncodedPassword(user.getUserPassword()));
         userRoles.add(role);
 

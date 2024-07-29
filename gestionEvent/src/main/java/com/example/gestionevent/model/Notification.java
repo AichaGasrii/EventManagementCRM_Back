@@ -19,8 +19,6 @@ public class Notification {
 
 
 
-	private boolean checked;
-
 
 
 
@@ -31,7 +29,6 @@ public class Notification {
 		this.date = date;
 		this.message = message;
 		this.userName = userName;
-		this.checked = checked;
 
 	}
 	public Notification() {
@@ -45,13 +42,7 @@ public class Notification {
 		this.notificationId = notificationId;
 	}
 
-	public boolean isChecked() {
-		return checked;
-	}
 
-	public void setChecked(boolean checked) {
-		this.checked = checked;
-	}
 	public String getTime() {
 		return time;
 	}
@@ -80,7 +71,7 @@ public class Notification {
 	@Override
 	public String toString() {
 		return "Notification [notificationId=" + notificationId + ", time=" + time + ", date=" + date + ", message="
-				+ message + ", userName=" + userName + ", checked=" + checked + "]";
+				+ message + ", userName=" + userName + "]";
 	}
 
 	

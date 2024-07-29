@@ -37,8 +37,6 @@ public class User {
     private String verificationToken;
     private String siteWeb;
 
-    @Column(nullable = false, columnDefinition = "BOOLEAN DEFAULT FALSE")
-    private Boolean checked = false;
 
     public String getImage() {
         return image;
